@@ -1,8 +1,8 @@
-## 안녕하세요! 선생님을 찾아주는 갓순봇입니다.
+## 선생님을 찾아주는 갓순봇입니다.
 
-You can use the [editor on GitHub](https://github.com/rokmc936/godsoonbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+혹시 우리반에 수업 들어오시는 선생님에게 볼 일이 있는데 어디 계신지 모르겠다고요?
+걱정마세요! 여러분의 갓순봇이 도와드리겠습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
