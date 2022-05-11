@@ -9,3 +9,5 @@
 **대화를 시작하려면 오른쪽 아래 채팅박스를 눌러주세요.**
 
 ![KakaoTalk_20190302_001601184](https://user-images.githubusercontent.com/103111048/163158052-a4193f8e-cb33-427c-93d2-9872b8a8a790.gif)
+
+**챗봇 관련 문의 : rokmc936@nate.com / 카톡ID back2you**
