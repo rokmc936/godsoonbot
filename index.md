@@ -1,5 +1,5 @@
 ## 🤗선생님을 찾아주는 갓순봇입니다.😎
-<img src="https://user-images.githubusercontent.com/103111048/163158052-a4193f8e-cb33-427c-93d2-9872b8a8a790.gif" width="20%" height="20%"></img>  
+<img src="https://user-images.githubusercontent.com/103111048/163158052-a4193f8e-cb33-427c-93d2-9872b8a8a790.gif" width="20%" height="20%">
 혹시 우리반에 수업 들어오시는 선생님에게 볼 일이 있는데 어디 계신지 모르겠다고요?  🙄  
 걱정마세요! 여러분의 **갓순봇**이 도와드리겠습니다.  😊👌  
 저는 우리학교 *1학년 수업 들어오시는 선생님*이 어디에 계신지 안내할 수 있습니다.  
